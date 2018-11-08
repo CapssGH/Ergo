@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rep>
+	<rules>
+		<rule_1>r1</rule_1>
+		<rule_2>r2</rule_2>
+		<rule_3>r3</rule_3>
+		<rule_4>r4</rule_4>
+		<rule_5>r5</rule_5>
+		<rule_6>r6</rule_6>
+	</rules>
+	<steamapi>
+		<int>0121242421</int>
+	</steamapi>
+	<picture>
+		<pic1>screen1.jpg</pic1>
+		<pic2>screen2.jpg</pic2>
+		<pic3>screen3.jpg</pic3>
+	</picture>
+	<logo>
+		<logomap>map.png</logomap>
+		<logogamemod>gamepad.png</logogamemod>
+		<logoserver>server.png</logoserver>
+	</logo>
+	<song>song.ogg</song>
+	<account>
+		<password>4c9a82ce72ca2519f38d0af0abbb4cecb9fceca9</password>
+		<user>4c9a82ce72ca2519f38d0af0abbb4cecb9fceca9</user>
+	</account>
+</rep>
